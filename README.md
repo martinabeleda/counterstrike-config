@@ -11,5 +11,5 @@ Add the following to launch options:
 To practice nades, start a server and run:
 
 ```
-exec nadepractice.cfg
+exec prac.cfg
 ```
